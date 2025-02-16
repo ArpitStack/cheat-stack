@@ -3,6 +3,7 @@
 A practical guide for debugging common Kubernetes issues in production environments.
 
 ## Table of Contents
+
 - [Pod Issues](#pod-issues)
 - [Node Issues](#node-issues)
 - [Networking Issues](#networking-issues)

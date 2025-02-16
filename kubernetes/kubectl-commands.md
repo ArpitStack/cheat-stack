@@ -3,6 +3,7 @@
 A comprehensive guide for kubectl commands used in production environments.
 
 ## Table of Contents
+
 - [Cluster Management](#cluster-management)
 - [Pod Operations](#pod-operations)
 - [Deployment Operations](#deployment-operations)
