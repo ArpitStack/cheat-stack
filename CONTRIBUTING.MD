@@ -48,16 +48,7 @@ We’re excited to have you join the project! Follow these steps to contribute:
    - **Make Your Changes**:  
      Now that you're on your new branch, make the necessary changes to the code, documentation, or other parts of the project. 
 
-### 5. Run Tests
-   - Before committing your changes, it’s essential to run the automated tests to ensure your changes don’t introduce any bugs.
-   - CheatStack uses **Jest** for automated testing. To run the tests locally, execute the following command:
-     ```bash
-     npm run test
-     ```
-
-   - This will run all the tests defined in the project, and you’ll see the test results in the console. If you encounter any failing tests, address them before proceeding.
-
-### 6. Commit Your Changes
+### 5. Commit Your Changes
    - After ensuring that all tests are passing, **stage** and **commit** your changes:
      ```bash
      git add .
@@ -69,7 +60,7 @@ We’re excited to have you join the project! Follow these steps to contribute:
      git commit -m "Fix issue with CheatStack command"
      ```
 
-### 7. Submit a Pull Request (PR)
+### 6. Submit a Pull Request (PR)
    - **Push Your Changes**:
      ```bash
      git push origin your-branch-name
